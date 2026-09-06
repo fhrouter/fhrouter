@@ -88,12 +88,12 @@ Fair-use limits and a rotating free set. No expiring trial credits, and your cre
 
 ## Links
 
-- 🌐 [fhrouter.com](https://fhrouter.com) — the gateway
-- 🆓 [Free LLM API](https://fhrouter.com/free-llm-api) — the free tier, explained
-- 💰 [Model pricing](https://fhrouter.com/pricing) — every model, up to 50% below list
-- 📚 [Docs](https://fhrouter.com/docs) — setup, troubleshooting, API reference
-- 📊 [Benchmarks](https://fhrouter.com/benchmarks) · [Rankings](https://fhrouter.com/rankings) · [Status](https://fhrouter.com/status)
-- ✍️ [Blog](https://fhrouter.com/blog) — guides and honest comparisons
+- [fhrouter.com](https://fhrouter.com) — the gateway
+- [Free LLM API](https://fhrouter.com/free-llm-api) — the free tier, explained
+- [Model pricing](https://fhrouter.com/pricing) — every model, up to 50% below list
+- [Docs](https://fhrouter.com/docs) — setup, troubleshooting, API reference
+- [Benchmarks](https://fhrouter.com/benchmarks) · [Rankings](https://fhrouter.com/rankings) · [Status](https://fhrouter.com/status)
+- [Blog](https://fhrouter.com/blog) — guides and honest comparisons
 
 ---
 
